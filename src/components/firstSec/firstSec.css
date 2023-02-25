@@ -1,0 +1,8 @@
+.firstSec {
+    background-image: url("../../images/bg-intro-mobile.svg");
+    width: 100%;
+    height: calc(60vh - 3rem); 
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
